@@ -1,5 +1,8 @@
 # Instructions
 
+- vagrant version **2.2.19**
+- virtualbox version **6.1.30**
+
 ### Add this on hosts file of your machine
 - 192.168.5.10	api.marinetraffic.test marinetraffic.test
 
