@@ -1,0 +1,1 @@
+{"nfs":{"/vagrant":{"mount_options":["rw","tcp","nolock","noacl","async"],"type":"nfs","nfs_udp":false,"guestpath":"/vagrant","hostpath":"/Users/dimipak/Projects_Work/MarineTraffic","disabled":false,"__vagrantfile":true,"map_uid":501,"map_gid":20,"nfs_version":3,"uuid":"2260496904"}}}
